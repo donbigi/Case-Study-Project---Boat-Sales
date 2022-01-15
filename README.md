@@ -21,7 +21,7 @@
             download here
           </a>
           <br>
-          the summary of my insight can be viewed
+          Summary of my insight can be viewed
           <a
             href="https://donbigi.github.io/Ucosibe/boat.html"
             target="_blank"
